@@ -96,4 +96,11 @@ class Cart {
       }
     }
   }
+
+  destroy() {
+    this.items = {};
+    this.discounts = {};
+    this.freebies = {};
+  }
+  
 }
