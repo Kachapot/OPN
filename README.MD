@@ -1,7 +1,7 @@
 Server-Side Challenge
 From https://github.com/opn-ooo/opn-th-server-side-challenge
 
-์ืNote: please npm install before running node
+Note: please npm install before running node
 
 I have did 3 topic from your requirements
 1.RESTful API : Is in ./routes/users.js
